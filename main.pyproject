@@ -1,0 +1,3 @@
+{
+    "files": ["car_id_detect.py","main.py","LoginDlg.py","my_pic_rc.py","mainwindow.py","card_seg.py","config.js","my_pic.qrc","db_event.py","svm_train.py","SigninDlg.py","global_.py"]
+}
